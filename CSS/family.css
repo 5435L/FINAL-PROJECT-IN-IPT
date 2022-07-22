@@ -1,0 +1,304 @@
+body{
+background-image:url(https://i.pinimg.com/736x/1b/83/ca/1b83ca5a54940ffceded7829a42c5adf.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+}
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    }
+    .box1{
+        width: 300px;
+        height: 600px;
+        margin:30px;
+        padding-left: 6px;
+        padding-top: 6px;
+        padding-right: 6px;
+        font-family: 'Courier New', Courier, monospace;
+        border: 5px double black;
+        text-align: justify;
+        font-weight: bold;
+        opacity: .8;
+        background-color: darkviolet;
+    
+    }
+    .box2{
+        width: 300px;
+        height: 600px;
+        margin:30px;
+        padding-left: 6px;
+        padding-top: 6px;
+        padding-right: 6px;
+        font-family: 'Courier New', Courier, monospace;
+        border: 5px double black;
+        text-align: justify;
+        font-weight: bold;
+        opacity: .8;
+        background-color: darkviolet;
+    
+    }
+    .box3{
+        width: 300px;
+        height: 600px;
+        margin:30px;
+        padding-left: 6px;
+        padding-top: 6px;
+        padding-right: 6px;
+        font-family: 'Courier New', Courier, monospace;
+        border: 5px double black;
+        text-align: justify;
+        font-weight: bold;
+        opacity: .8;
+        background-color: darkviolet;
+    
+    }
+
+.desimg{
+    width: 100%;
+    height: 60%;
+}
+h4{
+    margin-top: 150px;
+
+}
+h5{
+    margin-top:500px;
+    }
+.pu1{
+    
+    text-align: center;
+    float: left;
+    background-color: darkorchid;
+    margin-left: 22%;
+    margin-right: 40px;
+    vertical-align: middle;
+    width: 25%;
+    border-radius: 10px;
+    font-size: larger;
+    font-weight: bold;
+    a:hover 
+        color red;
+      
+}
+.pu2{
+    text-align: center;
+    float: left;
+    background-color: rgb(darkorchid);
+    margin-left: 25px;
+    margin-right: 40px;
+    vertical-align: middle;
+    width: 25%;
+    border-radius: 10px;
+    font-size: larger;
+    font-weight: bold;
+}
+.button1{
+    background-color: darkorchid;
+    padding: 10px;
+    font-size: 60px;
+    position: relative;
+    top: 25px;
+    left: 50px;
+    }
+
+.button{
+    background-color: darkorchid;
+    padding: 10px;
+    font-size: 60px;
+    position: relative;
+    top: 25px;
+    left: 50px;
+    }
+    .ph{
+        background-color:rgb(148, 67, 214) ;
+        width: 80%;
+        align-content: center;
+        position: relative;
+        bottom: 85px;
+        text-align: justify;
+        margin-left: 150px;
+        font-size: 18.5px;
+
+        }
+
+
+        .button3{
+            background-color: darkorchid;
+            padding: 10px;
+            font-size: 60px;
+            position: relative;
+            top: 25px;
+            left: 50px;
+            }
+
+img {
+    float: center;
+}body{
+background-image:url(https://i.pinimg.com/736x/1b/83/ca/1b83ca5a54940ffceded7829a42c5adf.jpg);
+background-repeat: no-repeat;
+background-size:0fr;
+background-attachment: fixed;
+}
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    }
+    .box1{
+        width: 300px;
+        height: 600px;
+        margin:30px;
+        padding-left: 6px;
+        padding-top: 6px;
+        padding-right: 6px;
+        font-family: 'Courier New', Courier, monospace;
+        border: 5px double black;
+        text-align: justify;
+        font-weight: bold;
+        opacity: .8;
+        background-color: darkviolet;
+    
+    }
+    .box2{
+        width: 300px;
+        height: 600px;
+        margin:30px;
+        padding-left: 6px;
+        padding-top: 6px;
+        padding-right: 6px;
+        font-family: 'Courier New', Courier, monospace;
+        border: 5px double black;
+        text-align: justify;
+        font-weight: bold;
+        opacity: .8;
+        background-color: darkviolet;
+    
+    }
+    .box3{
+        width: 300px;
+        height: 600px;
+        margin:30px;
+        padding-left: 6px;
+        padding-top: 6px;
+        padding-right: 6px;
+        font-family: 'Courier New', Courier, monospace;
+        border: 5px double black;
+        text-align: justify;
+        font-weight: bold;
+        opacity: .8;
+        background-color: darkviolet;
+    
+    }
+    .box4{
+        width: 300px;
+        height: 600px;
+        margin:30px;
+        padding-left: 6px;
+        padding-top: 6px;
+        padding-right: 6px;
+        font-family: 'Courier New', Courier, monospace;
+        border: 5px double black;
+        text-align: justify;
+        font-weight: bold;
+        opacity: .8;
+        background-color: darkviolet;
+    
+    }
+.desimg{
+    width: 100%;
+    height: 60%;
+}
+h4{
+    margin-top: 150px;
+
+}
+h5{
+    margin-top:500px;
+    }
+.pu1{
+    
+    text-align: center;
+    float: left;
+    background-color: darkorchid;
+    margin-left: 22%;
+    margin-right: 40px;
+    vertical-align: middle;
+    width: 25%;
+    border-radius: 10px;
+    font-size: larger;
+    font-weight: bold;
+    a:hover {
+        color: red;
+      }
+}
+.pu2{
+    text-align: center;
+    float: left;
+    background-color: darkorchid;
+    margin-left: 25px;
+    margin-right: 40px;
+    vertical-align: middle;
+    width: 25%;
+    border-radius: 10px;
+    font-size: larger;
+    font-weight: bold;
+}
+.button1{
+    background-color: darkorchid;
+    padding: 20px;
+    font-size: 60px;
+    position: relative;
+    top: 25px;
+    left: 612px;
+    }
+
+.button{
+    background-color: rgb(48, 4, 11);
+    padding: 10px;
+    font-size: 60px;
+    position: relative;
+    top: 25px;
+    left: 50px;
+    }
+    .button3{
+        background-color: rgb(48, 4, 11);
+        padding: 10px;
+        font-size: 60px;
+        position: relative;
+        top: 180px;
+        left: -40px;
+        }
+    .ph{
+        background-color:rgb(148, 67, 214) ;
+        width: 80%;
+        align-content: center;
+        position: relative;
+        bottom: 85px;
+        text-align: justify;
+        margin-left: 150px;
+        font-size: 18.5px;
+
+        }
+
+
+        .button4{
+            background-color: darkorchid;
+            padding: 20px;
+            font-size: 60px;
+            position: relative;
+            top: 25px;
+            left: 4px;
+            }
+          
+                .button9{
+                    background-color: darkorchid;
+                    padding: 20px;
+                    font-size: 60px;
+                    position: relative;
+                    top: 25px;
+                    left: 610px;
+                    }
+
+img {
+    float: center;
+}
